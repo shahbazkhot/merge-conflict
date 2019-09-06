@@ -1,23 +1,12 @@
 pseudo code
-
 {
-
 Initial Function()
-
 {
-
-  //Sample Code
-
+  Security Patch Master
+  Security Patch Feature1
 }
-
-
-
 Initial Function2()
-
 {
-
- //Sample Code
-
+  //Sample Code
 }
-
 }
