@@ -2,14 +2,10 @@ pseudo code
 {
 Initial Function()
 {
-   security patch1
+  Security Patch Feature1
 }
-
 Initial Function2()
 {
-  Securitu Patch2
+  //Sample Code
 }
-
-
-
 }
